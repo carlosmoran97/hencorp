@@ -1,0 +1,217 @@
+[20-Apr-2018 16:16:40 UTC] PHP Warning:  Illegal string offset 'categoroa' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 17
+[20-Apr-2018 16:16:59 UTC] PHP Warning:  Illegal string offset 'categoroa' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 17
+[20-Apr-2018 16:17:03 UTC] PHP Warning:  Illegal string offset 'categoroa' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 17
+[20-Apr-2018 16:58:07 UTC] PHP Fatal error:  Cannot use [] for reading in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 14
+[20-Apr-2018 16:58:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[20-Apr-2018 16:58:18 UTC] PHP Fatal error:  Cannot use [] for reading in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 14
+[20-Apr-2018 16:58:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[20-Apr-2018 16:58:19 UTC] PHP Fatal error:  Cannot use [] for reading in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 14
+[20-Apr-2018 16:58:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[20-Apr-2018 16:58:20 UTC] PHP Fatal error:  Cannot use [] for reading in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 14
+[20-Apr-2018 16:58:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[20-Apr-2018 16:58:31 UTC] PHP Fatal error:  Cannot use [] for reading in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 14
+[20-Apr-2018 16:58:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[20-Apr-2018 16:58:33 UTC] PHP Fatal error:  Cannot use [] for reading in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 14
+[20-Apr-2018 16:58:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[21-Apr-2018 14:48:38 UTC] PHP Parse error:  syntax error, unexpected '=' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 67
+[21-Apr-2018 14:48:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[21-Apr-2018 14:48:40 UTC] PHP Parse error:  syntax error, unexpected '=' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 67
+[21-Apr-2018 14:48:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[21-Apr-2018 14:54:29 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting variable (T_VARIABLE) or '{' or '$' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 39
+[21-Apr-2018 14:54:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[21-Apr-2018 14:54:31 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting variable (T_VARIABLE) or '{' or '$' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 39
+[21-Apr-2018 14:54:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[21-Apr-2018 14:54:47 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting variable (T_VARIABLE) or '{' or '$' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 39
+[21-Apr-2018 14:54:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[21-Apr-2018 15:24:15 UTC] PHP Parse error:  syntax error, unexpected ':' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 54
+[21-Apr-2018 15:24:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[21-Apr-2018 15:24:17 UTC] PHP Parse error:  syntax error, unexpected ':' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 54
+[21-Apr-2018 15:24:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[21-Apr-2018 16:43:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 431
+[21-Apr-2018 16:43:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[21-Apr-2018 16:43:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 431
+[21-Apr-2018 16:43:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[21-Apr-2018 18:02:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 203
+[21-Apr-2018 18:02:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_user_logged_in() in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php:370
+Stack trace:
+#0 /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php(403): Endurance_Page_Cache->is_cachable()
+#1 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(286): Endurance_Page_Cache->finish('')
+#2 /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home1/estudjl6/public_html/hencorp/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home1/estudjl6/public_html/hencorp/wp-includes/load.php(679): do_action('shutdown')
+#5 [internal function]: shutdown_action_hook()
+#6 {main}
+  thrown in /home1/estudjl6/public_html/hencorp/wp-content/mu-plugins/endurance-page-cache.php on line 370
+[23-Apr-2018 13:11:48 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/estudjl6/public_html/hencorp/wp-content/themes/bb-theme/includes/customizer-panel-header.php on line 1123
+[23-Apr-2018 13:11:50 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/estudjl6/public_html/hencorp/wp-content/themes/bb-theme/includes/customizer-panel-header.php on line 1123
+[23-Apr-2018 13:56:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'menu_idioma' not found or invalid function name in /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php on line 286
+[23-Apr-2018 13:56:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'menu_idioma' not found or invalid function name in /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php on line 286
+[23-Apr-2018 13:58:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'register_my_menu2' not found or invalid function name in /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php on line 286
+[23-Apr-2018 13:58:23 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'register_my_menu2' not found or invalid function name in /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-hook.php on line 286
+[23-Apr-2018 16:41:02 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/qtranslate-x/qtranslate_frontend.php on line 274
+[23-Apr-2018 16:41:05 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/qtranslate-x/qtranslate_frontend.php on line 274
+[23-Apr-2018 19:44:37 UTC] PHP Fatal error:  Cannot redeclare page_content_shortcode1() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:234) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 246
+[23-Apr-2018 19:44:38 UTC] PHP Fatal error:  Cannot redeclare page_content_shortcode1() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:234) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 246
+[23-Apr-2018 19:44:51 UTC] PHP Fatal error:  Cannot redeclare page_content_shortcode1() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:234) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 246
+[23-Apr-2018 19:46:09 UTC] PHP Fatal error:  Cannot redeclare page_content_shortcode1() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:234) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 245
+[23-Apr-2018 19:46:27 UTC] PHP Fatal error:  Cannot redeclare page_content_shortcode1() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:234) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 245
+[23-Apr-2018 19:49:29 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 247
+[23-Apr-2018 19:49:31 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 247
+[23-Apr-2018 19:49:59 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 247
+[23-Apr-2018 19:50:01 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 247
+[24-Apr-2018 16:20:09 UTC] PHP Fatal error:  Cannot redeclare funcion_carrousel() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:11) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 266
+[24-Apr-2018 16:20:55 UTC] PHP Fatal error:  Cannot redeclare funcion_carrousel() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:11) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 266
+[24-Apr-2018 16:20:59 UTC] PHP Fatal error:  Cannot redeclare funcion_carrousel() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:11) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 266
+[24-Apr-2018 16:21:05 UTC] PHP Fatal error:  Cannot redeclare funcion_carrousel() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:11) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 266
+[24-Apr-2018 16:21:17 UTC] PHP Fatal error:  Cannot redeclare funcion_carrousel() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:11) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 266
+[24-Apr-2018 16:21:54 UTC] PHP Fatal error:  Cannot redeclare funcion_carrousel() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:11) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 265
+[24-Apr-2018 16:44:51 UTC] PHP Fatal error:  Cannot redeclare funcion_carrousel() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:11) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 265
+[24-Apr-2018 16:44:53 UTC] PHP Fatal error:  Cannot redeclare funcion_carrousel() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:11) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 265
+[24-Apr-2018 19:00:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 519
+[24-Apr-2018 19:00:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 519
+[24-Apr-2018 19:00:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 519
+[24-Apr-2018 19:51:21 UTC] PHP Parse error:  syntax error, unexpected '$thispage' (T_VARIABLE), expecting ',' or ')' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 517
+[24-Apr-2018 19:51:24 UTC] PHP Parse error:  syntax error, unexpected '$thispage' (T_VARIABLE), expecting ',' or ')' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 517
+[28-Apr-2018 14:32:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/estudjl6/public_html/hencorp/wp-includes/class-wp-list-util.php on line 148
+[28-Apr-2018 14:32:01 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home1/estudjl6/public_html/hencorp/wp-content/plugins/types/vendor/otgs/installer/includes/class-otgs-installer-wp-components-storage.php on line 51
+[03-May-2018 17:23:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 504
+[03-May-2018 17:23:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 504
+[03-May-2018 17:24:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 504
+[09-May-2018 13:42:45 UTC] PHP Fatal error:  Cannot redeclare page_content_descargar_documentos3() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:565) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 628
+[09-May-2018 13:42:48 UTC] PHP Fatal error:  Cannot redeclare page_content_descargar_documentos3() (previously declared in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php:565) in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 628
+[19-Jun-2018 20:38:49 UTC] PHP Parse error:  syntax error, unexpected '.' in /home1/estudjl6/public_html/hencorp/wp-content/plugins/grupo_la_hache_post_content_shortcode.php on line 1438
